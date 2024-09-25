@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>張青富 | Optima Group</title>
-    <link>http://localhost:1313/author/%E5%BC%B5%E9%9D%92%E5%AF%8C/</link>
-      <atom:link href="http://localhost:1313/author/%E5%BC%B5%E9%9D%92%E5%AF%8C/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://c4yg70.github.io/OptimaLabPage/author/%E5%BC%B5%E9%9D%92%E5%AF%8C/</link>
+      <atom:link href="https://c4yg70.github.io/OptimaLabPage/author/%E5%BC%B5%E9%9D%92%E5%AF%8C/index.xml" rel="self" type="application/rss+xml" />
     <description>張青富</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
     <image>
-      <url>http://localhost:1313/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <url>https://c4yg70.github.io/OptimaLabPage/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>張青富</title>
-      <link>http://localhost:1313/author/%E5%BC%B5%E9%9D%92%E5%AF%8C/</link>
+      <link>https://c4yg70.github.io/OptimaLabPage/author/%E5%BC%B5%E9%9D%92%E5%AF%8C/</link>
     </image>
     
     <item>
       <title>Qingfu ZHANG 張青富</title>
-      <link>http://localhost:1313/author/qingfu-zhang-%E5%BC%B5%E9%9D%92%E5%AF%8C/</link>
+      <link>https://c4yg70.github.io/OptimaLabPage/author/qingfu-zhang-%E5%BC%B5%E9%9D%92%E5%AF%8C/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/author/qingfu-zhang-%E5%BC%B5%E9%9D%92%E5%AF%8C/</guid>
+      <guid>https://c4yg70.github.io/OptimaLabPage/author/qingfu-zhang-%E5%BC%B5%E9%9D%92%E5%AF%8C/</guid>
       <description>&lt;p&gt;TO-BE-FILL&lt;/p&gt;
 </description>
     </item>

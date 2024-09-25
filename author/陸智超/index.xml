@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>陸智超 | Optima Group</title>
-    <link>http://localhost:1313/author/%E9%99%B8%E6%99%BA%E8%B6%85/</link>
-      <atom:link href="http://localhost:1313/author/%E9%99%B8%E6%99%BA%E8%B6%85/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://c4yg70.github.io/OptimaLabPage/author/%E9%99%B8%E6%99%BA%E8%B6%85/</link>
+      <atom:link href="https://c4yg70.github.io/OptimaLabPage/author/%E9%99%B8%E6%99%BA%E8%B6%85/index.xml" rel="self" type="application/rss+xml" />
     <description>陸智超</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
     <image>
-      <url>http://localhost:1313/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <url>https://c4yg70.github.io/OptimaLabPage/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>陸智超</title>
-      <link>http://localhost:1313/author/%E9%99%B8%E6%99%BA%E8%B6%85/</link>
+      <link>https://c4yg70.github.io/OptimaLabPage/author/%E9%99%B8%E6%99%BA%E8%B6%85/</link>
     </image>
     
     <item>
       <title>Zhichao Lu 陸智超</title>
-      <link>http://localhost:1313/author/zhichao-lu-%E9%99%B8%E6%99%BA%E8%B6%85/</link>
+      <link>https://c4yg70.github.io/OptimaLabPage/author/zhichao-lu-%E9%99%B8%E6%99%BA%E8%B6%85/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/author/zhichao-lu-%E9%99%B8%E6%99%BA%E8%B6%85/</guid>
+      <guid>https://c4yg70.github.io/OptimaLabPage/author/zhichao-lu-%E9%99%B8%E6%99%BA%E8%B6%85/</guid>
       <description>&lt;p&gt;In the broad context of AI, my current research focuses on the intersections of evolutionary computation, learning, and optimization, notably on developing efficient and automated ML/DL algorithms and systems, with the overarching goal of making AI accessible to everyone. I received B.S. and Ph.D. degrees in Electrical and Computer Engineering from Michigan State University.&lt;/p&gt;
 </description>
     </item>

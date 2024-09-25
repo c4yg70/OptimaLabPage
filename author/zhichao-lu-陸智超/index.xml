@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Zhichao Lu 陸智超 | Optima Group</title>
-    <link>http://localhost:1313/author/zhichao-lu-%E9%99%B8%E6%99%BA%E8%B6%85/</link>
-      <atom:link href="http://localhost:1313/author/zhichao-lu-%E9%99%B8%E6%99%BA%E8%B6%85/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://c4yg70.github.io/OptimaLabPage/author/zhichao-lu-%E9%99%B8%E6%99%BA%E8%B6%85/</link>
+      <atom:link href="https://c4yg70.github.io/OptimaLabPage/author/zhichao-lu-%E9%99%B8%E6%99%BA%E8%B6%85/index.xml" rel="self" type="application/rss+xml" />
     <description>Zhichao Lu 陸智超</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
     <image>
-      <url>http://localhost:1313/author/zhichao-lu-%E9%99%B8%E6%99%BA%E8%B6%85/avatar_hu9b0ffe3413c9e822fe25d9adc2cf7356_453656_270x270_fill_lanczos_center_3.png</url>
+      <url>https://c4yg70.github.io/OptimaLabPage/author/zhichao-lu-%E9%99%B8%E6%99%BA%E8%B6%85/avatar_hu9b0ffe3413c9e822fe25d9adc2cf7356_453656_270x270_fill_lanczos_center_3.png</url>
       <title>Zhichao Lu 陸智超</title>
-      <link>http://localhost:1313/author/zhichao-lu-%E9%99%B8%E6%99%BA%E8%B6%85/</link>
+      <link>https://c4yg70.github.io/OptimaLabPage/author/zhichao-lu-%E9%99%B8%E6%99%BA%E8%B6%85/</link>
     </image>
     
   </channel>
