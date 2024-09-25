@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ZHANG Rui 張睿 | Optima Group</title>
+    <link>http://localhost:1313/author/zhang-rui-%E5%BC%B5%E7%9D%BF/</link>
+      <atom:link href="http://localhost:1313/author/zhang-rui-%E5%BC%B5%E7%9D%BF/index.xml" rel="self" type="application/rss+xml" />
+    <description>ZHANG Rui 張睿</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
+    <image>
+      <url>http://localhost:1313/author/zhang-rui-%E5%BC%B5%E7%9D%BF/avatar_hube8567865cdf81a916ce95092101a7d6_152816_270x270_fill_q75_lanczos_center.jpeg</url>
+      <title>ZHANG Rui 張睿</title>
+      <link>http://localhost:1313/author/zhang-rui-%E5%BC%B5%E7%9D%BF/</link>
+    </image>
+    
+    <item>
+      <title>ZHANG Rui 張睿</title>
+      <link>http://localhost:1313/author/zhang-rui-%E5%BC%B5%E7%9D%BF/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/author/zhang-rui-%E5%BC%B5%E7%9D%BF/</guid>
+      <description>&lt;p&gt;Rui Zhang is an exceptionally bright, diligent, and creative MPhil student specializing in Multi-Objective Optimization and Machine Learning. His quick grasp of complex concepts and innovative problem-solving skills have led to significant advancements in balancing multiple conflicting objectives. Rui&amp;rsquo;s integration of optimization techniques with machine learning models enhances their performance and robustness. Known for his meticulous attention to detail and relentless work ethic, he is a valuable asset to any research team. Rui&amp;rsquo;s future in academia and research is promising, poised to make substantial contributions to the scientific community.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
